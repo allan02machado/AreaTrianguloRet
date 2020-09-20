@@ -1,0 +1,2 @@
+# AreaTrianguloRet
+Resposta exercício "AreaTrianguloRet"
